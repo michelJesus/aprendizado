@@ -1,3 +1,3 @@
 # aprendizado
 
-atualização 2
+Repositório com exemplos práticos feitos em cursos realizados
