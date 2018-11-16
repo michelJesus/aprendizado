@@ -1,3 +1,3 @@
 # aprendizado
 
-atuzalização
+atualização 2
